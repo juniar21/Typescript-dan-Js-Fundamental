@@ -1,0 +1,3 @@
+function pascal(n:number) {
+    
+}
